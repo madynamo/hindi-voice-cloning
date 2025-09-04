@@ -49,4 +49,4 @@ The scripts are designed to be run from the command line. The primary way to int
     python main.py --clone --ref_audio /path/to/sample.wav --text "आप कैसे हैं?"
     ```
 
-*Note: The exact commands may vary. Please refer to the argument parsing logic within each script for specific details.*
+*Note: The exact commands may vary as per device.*
